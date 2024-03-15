@@ -15,7 +15,7 @@ const Footer = () => {
 
       </ul>
       <div className='footer_copyright'>
-        <small>All rights reserved &copy; Copyright, EGATOR Tutorials.</small>
+        <small>All rights reserved &copy; Copyright.</small>
 
       </div>
     </footer>
